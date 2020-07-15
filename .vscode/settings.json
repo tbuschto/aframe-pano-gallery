@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#ef2d5e",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#ffffff70"
+  },
+  "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "eslint.lintTask.enable": true,
+  "eslint.enable": true,
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "cSpell.words": [
+    "aframe"
+  ]
+}
